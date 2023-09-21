@@ -1,1 +1,1 @@
-alert('ola');
+document.querySelector('.tecla_pom')
