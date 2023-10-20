@@ -3,7 +3,7 @@
   --vermelha: #ff0000;
   --vermelha-escura: #ff5656;
   --branca: #ffe7e7;
-  --luz: rgb(0, 0, 0);
+  --luz: rgb(255, 255, 255);
 }
 
 body {
